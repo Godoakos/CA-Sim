@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1406306211 source:d:\docs\c++\graphicsproject\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<time.h>
+
+1398289736 d:\docs\c++\graphicsproject\include\graphics.hpp
+	<string>
+
+1431530126 source:d:\docs\c++\ca sim\main.cpp
+	"field.cpp"
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+
+1431529552 d:\docs\c++\ca sim\field.cpp
+	"graphics.hpp"
+	"rule.cpp"
+	<vector>
+	<iostream>
+	<fstream>
+
+1330553510 d:\docs\c++\ca sim\include\graphics.hpp
+	<string>
+
+1431515858 d:\docs\c++\ca sim\rule.cpp
+	<map>
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
